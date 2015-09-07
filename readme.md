@@ -5,6 +5,9 @@ This jquery plugin helps makes ajax request in a standard way.
 Version history
 --------------------------------------
 ```bash
+Version 1.0.9
+- Added git repository
+
 Version 1.0.8
 - Changed the license from ISC to MIT
 - Updated some comment

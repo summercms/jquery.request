@@ -1,6 +1,6 @@
 {
   "name": "jquery.request",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Jquery plugin developed to standardize and facilitate the way you make ajax requests",
   "main": "jquery.request.js",
   "dependencies": {
@@ -13,5 +13,12 @@
     "ajax"
   ],
   "author": "Paolo Bersan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/berpao/jquery.request"
+  },
+  "bugs": {
+    "url": "https://github.com/berpao/jquery.request/issues"
+  },
   "license": "MIT"
 }
