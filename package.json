@@ -1,0 +1,17 @@
+{
+  "name": "jquery.request",
+  "version": "1.0.8",
+  "description": "Jquery plugin developed to standardize and facilitate the way you make ajax requests",
+  "main": "jquery.request.js",
+  "dependencies": {
+    "jquery": ">=1.5.1"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "request",
+    "ajax"
+  ],
+  "author": "Paolo Bersan",
+  "license": "MIT"
+}
